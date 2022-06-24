@@ -7,4 +7,6 @@ Expanding zeroes at the beginning will automatically be added based on the numbe
 
 LastWriteTime can be changed to CreationTime if required.
 
+Run ps1 file within the directory you wish to rename.
+
 Code referenced from: https://stackoverflow.com/questions/63830244/is-there-a-way-to-rename-files-based-on-date-modified-using-powershell (thanks)
